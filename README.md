@@ -38,7 +38,7 @@ This project demonstrates a minimal but production-aligned pattern:
 
 ## Prerequisites
 
-- **.NET 9 SDK or later**
+- **.NET 10.0 SDK or later**
   https://dotnet.microsoft.com/
 
 - **Ollama** installed and running locally
